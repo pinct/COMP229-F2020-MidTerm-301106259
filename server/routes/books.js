@@ -55,7 +55,7 @@ router.post('/add', (req, res, next) => {
       }
       else
       {
-          res.redirect('/');
+          res.redirect('/books');
       }
   });
 });
