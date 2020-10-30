@@ -1,3 +1,10 @@
+/*
+  books.js
+  Michael Courneya
+  301106259
+  COMP229 F2020 Midterm
+*/
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
